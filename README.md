@@ -27,7 +27,8 @@ I'm a **Frontend Web and App Developer** with a passion for creating beautiful, 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Eyob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyobiii&show_icons=true&theme=radical)
+
 
 ---
 

@@ -33,8 +33,8 @@ I'm a **Frontend Web and App Developer** with a passion for creating beautiful, 
 
 ## 🌐 Find Me Around the Web
 
-- [LinkedIn](https://linkedin.com/in/your-linkedin) 💼
-- [Twitter](https://twitter.com/your-twitter) 🐦
+- [LinkedIn](https://www.linkedin.com/in/eyobiii/) 💼
+- [Twitter](https://x.com/eyoba4279170044) 🐦
 - [Portfolio](https://your-portfolio.com) 🌐
 
 ---

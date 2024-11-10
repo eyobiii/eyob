@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Eyob Belayneh 👋
 
 I'm a **Frontend Web and App Developer** with a passion for creating beautiful, responsive, and user-friendly digital experiences. I love working with the latest technologies to build engaging applications that make a difference!
 
